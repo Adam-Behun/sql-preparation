@@ -1,5 +1,7 @@
 # Analytical Data Processing in SQL
 
+-- add picture of joins
+
 <p>
 This directory is a collection of advanced SQL queries and data analysis techniques following the guidelines and exercises provided in
   <a href="https://josephmachado.gumroad.com/l/analyticalsql">Efficient Data Processing in SQL</a>.
