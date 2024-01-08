@@ -13,7 +13,7 @@ In the `hackerrank-challenges` directory, you'll find my solutions to various SQ
 ## Analytical Data Processing in SQL
 
 <p align="center">
-  <img src="visuals/book-contents.png" alt="Analytical Data Processing with SQL" width="500"/>
+  <img src="visuals/book-contents.png" alt="Analytical Data Processing with SQL" width="550" height="400"/>
 </p>
 
 The `analytical-data-processing-sql` directory contains advanced SQL queries and data processing examples. You can view this dedicated repository [here](analytical-data-processing-sql).
@@ -21,6 +21,6 @@ The `analytical-data-processing-sql` directory contains advanced SQL queries and
 ## Website
 
 <p>
-For more information on the book, visit:  
+For more information on the book, visit  
   <a href="https://josephmachado.gumroad.com/l/analyticalsql">Efficient Data Processing in SQL</a>
 </p>
