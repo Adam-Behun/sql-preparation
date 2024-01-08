@@ -1,7 +1,5 @@
 # Analytical Data Processing in SQL
 
--- add picture of joins
-
 <p>
 This directory is a collection of advanced SQL queries and data analysis techniques following the guidelines and exercises provided in
   <a href="https://josephmachado.gumroad.com/l/analyticalsql">Efficient Data Processing in SQL</a>.
@@ -9,6 +7,8 @@ This directory is a collection of advanced SQL queries and data analysis techniq
 Each file within this folder corresponds to a specific chapter and concept covered in the book, showcasing practical applications of SQL in data analysis.
 
 <ul>
+  <li><a href="#data-description">Data Model Description</a></li>
+  <li><a href="#sql-joins-overview">SQL Joins Overview</a></li>
   <li><a href="#chapter-2-advanced-selections">Chapter 2: Advanced Selections</a></li>
   <li><a href="#chapter-3-aggregation-and-window-functions">Chapter 3: Aggregation and Window Functions</a></li>
   <li><a href="#chapter-4-data-storage-and-query-optimization">Chapter 4: Data Storage and Query Optimization</a></li>
@@ -22,9 +22,25 @@ Each file within this folder corresponds to a specific chapter and concept cover
   <img src="../visuals/tpch_erd.png" alt="TPC-H ERD" width="600" height="700"/>
 </p>
 
+## SQL Joins Overview
+
+<p align="center">
+  <img src="..visuals/sql-joins.jpg" alt="SQL Joins" width="600"/>
+</p>
+
+### Types of Joins
+
+- [INNER JOIN](./sql-queries/inner-join.sql)
+- [LEFT JOIN](./sql-queries/left-join.sql)
+- [RIGHT JOIN](./sql-queries/right-join.sql)
+- [FULL OUTER JOIN](./sql-queries/full-outer-join.sql)
+- [CROSS JOIN](./sql-queries/cross-join.sql)
+
+Each link leads to a SQL file within the `sql-queries` directory that demonstrates how to use that specific type of join.
+
 ## SQL Queries Folder
 
-Explore the SQL queries derived from the book exercises in the [sql-queries](./sql-queries) directory.
+SQL queries derived from the book exercises in the [sql-queries](./sql-queries) directory.
 
 ## Chapter Descriptions
 
