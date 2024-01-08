@@ -7,7 +7,7 @@ This directory is a collection of advanced SQL queries and data analysis techniq
 Each file within this folder corresponds to a specific chapter and concept covered in the book, showcasing practical applications of SQL in data analysis.
 
 <ul>
-  <li><a href="#data-description">Data Model Description</a></li>
+  <li><a href="#data-description">Data Description</a></li>
   <li><a href="#sql-joins-overview">SQL Joins Overview</a></li>
   <li><a href="#chapter-2-advanced-selections">Chapter 2: Advanced Selections</a></li>
   <li><a href="#chapter-3-aggregation-and-window-functions">Chapter 3: Aggregation and Window Functions</a></li>
@@ -25,7 +25,7 @@ Each file within this folder corresponds to a specific chapter and concept cover
 ## SQL Joins Overview
 
 <p align="center">
-  <img src="..visuals/sql-joins.jpg" alt="SQL Joins" width="600"/>
+  <img src="../visuals/sql-joins.jpg" alt="SQL Joins" width="600"/>
 </p>
 
 ### Types of Joins
