@@ -20,7 +20,7 @@ The `analytical-data-processing-sql` directory contains advanced SQL queries and
 
 ## Website
 
-<p align="center">
+<p>
 For more information on the book, visit:  
   <a href="https://josephmachado.gumroad.com/l/analyticalsql">Efficient Data Processing in SQL</a>
 </p>
