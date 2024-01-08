@@ -5,10 +5,10 @@ Welcome to my SQL Preparation Repository, where I share my SQL skills through pr
 ## HackerRank Challenges
 
 <p align="center">
-  <img src="visuals/hackerrank.png" alt="HackerRank Challenges" width="300" height="250"/>
+  <img src="visuals/hackerrank.png" alt="HackerRank Challenges" width="150" height="150"/>
 </p>
 
-In the `hackerrank-challenges` directory, you'll find my solutions to various SQL challenges hosted on [HackerRank](https://www.hackerrank.com/). These solutions demonstrate my ability to solve complex database querying problems.
+In the `hackerrank-challenges` directory, you'll find my solutions to various SQL challenges hosted on [HackerRank](https://www.hackerrank.com/).
 
 ## Analytical Data Processing in SQL
 
@@ -20,7 +20,7 @@ The `analytical-data-processing-sql` directory contains advanced SQL queries and
 
 ## Website
 
-For more information on the book "Analytical Data Processing in SQL", visit. 
 <p align="center">
+For more information on the book, visit:  
   <a href="https://josephmachado.gumroad.com/l/analyticalsql">Efficient Data Processing in SQL</a>
 </p>
