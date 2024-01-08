@@ -1,0 +1,1 @@
+This folder contains practical SQL queries and data analysis examples based on lessons learned from [Book Title].
