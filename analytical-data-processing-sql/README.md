@@ -6,23 +6,18 @@ This directory is a collection of advanced SQL queries and data analysis techniq
 </p>
 Each file within this folder corresponds to a specific chapter and concept covered in the book, showcasing practical applications of SQL in data analysis.
 
-## Table of Contents
-
-- [Analytical Data Processing in SQL](#analytical-data-processing-in-sql)
-  - [Table of Contents](#table-of-contents)
-  - [Data Description](#data-description)
-  - [SQL Queries Folder](#sql-queries-folder)
-  - [Chapter Descriptions](#chapter-descriptions)
-    - [Chapter 2: Advanced Selections](#chapter-2-advanced-selections)
-    - [Chapter 3: Aggregation and Window Functions](#chapter-3-aggregation-and-window-functions)
-    - [Chapter 4: Chapter 4: Data Storage and Query Optimization](#chapter-4-chapter-4-data-storage-and-query-optimization)
-    - [Chapter 5: Advanced Window Functions](#chapter-5-advanced-window-functions)
-    - [Chapter 6: Writing Maintainable SQL](#chapter-6-writing-maintainable-sql)
+<ul>
+  <li><a href="#chapter-2-advanced-selections">Chapter 2: Advanced Selections</a></li>
+  <li><a href="#chapter-3-aggregation-and-window-functions">Chapter 3: Aggregation and Window Functions</a></li>
+  <li><a href="#chapter-4-data-storage-and-query-optimization">Chapter 4: Data Storage and Query Optimization</a></li>
+  <li><a href="#chapter-5-advanced-window-functions">Chapter 5: Advanced Window Functions</a></li>
+  <li><a href="#chapter-6-writing-maintainable-sql">Chapter 6: Writing Maintainable SQL</a></li>
+</ul>
 
 ## Data Description
 
 <p align="center">
-  <img src="../visuals/tpch_erd.png" alt="TPC-H ERD" width="600" height="600"/>
+  <img src="../visuals/tpch_erd.png" alt="TPC-H ERD" width="600" height="700"/>
 </p>
 
 ## SQL Queries Folder
