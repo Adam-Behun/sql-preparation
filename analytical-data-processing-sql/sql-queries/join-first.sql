@@ -1,7 +1,5 @@
 -- not based on real tables
 SELECT
-a.*
+    a.*
 FROM
-table_a a -- LEFT table a
-JOIN table_b b -- RIGHT table b
-ON a.id = b.id
+    table_a a JOIN table_b b ON a.id = b.id
